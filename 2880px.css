@@ -10,23 +10,27 @@
         font-size: 45px;
         line-height: 81px;
         margin-bottom: 50px;
+        font-weight: bold;
     }
     .title {
         font-size: 58px;
         line-height: 98px;
         margin-bottom: 50px;
+        font-weight: bold;
     }
     h2 {
         font-size: 36px;
         line-height: 69px;
         margin-top: 81px;
         margin-bottom: 31px;
+        font-weight: bold;
     }
     h3 {
         font-size: 28px;
         line-height: 58px;
         margin-top: 50px;
         margin-bottom: 19px;
+        font-weight: bold;
     }
     h4 {
         font-size: 22px;
