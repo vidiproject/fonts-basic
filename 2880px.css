@@ -1,0 +1,118 @@
+@media all and (min-width: 1921px) {
+    body,
+    html,
+    p {
+        font-family: "mifanstudio", sans-serif;
+        font-size: 22px;
+        line-height: 50px;
+    }
+    h1 {
+        font-size: 45px;
+        line-height: 81px;
+        margin-bottom: 50px;
+    }
+    .title {
+        font-size: 58px;
+        line-height: 98px;
+        margin-bottom: 50px;
+    }
+    h2 {
+        font-size: 36px;
+        line-height: 69px;
+        margin-top: 81px;
+        margin-bottom: 31px;
+    }
+    h3 {
+        font-size: 28px;
+        line-height: 58px;
+        margin-top: 50px;
+        margin-bottom: 19px;
+    }
+    h4 {
+        font-size: 22px;
+        line-height: 50px;
+        font-weight: bold;
+        margin-bottom: 12px;
+    }
+    p,
+    ul,
+    ol,
+    blockquote,
+    pre,
+    .alert,
+    .note,
+    .box,
+    .footnotes {
+        margin-bottom: 50px;
+    }
+    ul,
+    ol {
+        margin-left: 50px;
+    }
+    li {
+        margin-bottom: 19px;
+    }
+    blockquote {
+        padding-left: 31px;
+        border-style: solid;
+        border-color: rgba(0, 0, 0, 0.15);
+        border-width: 0 0 0 12px;
+    }
+    sub,
+    sup {
+        padding: 0 1px;
+    }
+    code,
+    pre,
+    kbd {
+        font-size: 20px;
+    }
+    code {
+        background-color: rgba(0, 0, 0, 0.08);
+        padding: 6px 7px;
+        border-radius: 12px;
+        margin: 0 1px;
+    }
+    pre {
+        padding: 19px;
+        border-style: solid;
+        border-color: rgba(0, 0, 0, 0.15);
+        border-width: 0 0 0 12px;
+    }
+    kbd {
+        background-color: #fff;
+        padding: 6px 7px;
+        border-radius: 7px;
+        box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.45);
+        margin: 0 1px;
+    }
+    .alert,
+    .note,
+    .box {
+        padding: 31px;
+    }
+    .footnotes {
+        font-size: 17px;
+        line-height: 43px;
+        padding-top: 31px;
+        border-top: 1px dotted rgba(0, 0, 0, 0.15);
+    }
+    .footnotes p {
+        margin-bottom: 31px;
+    }
+    ul ul,
+    ul ol,
+    ol ul,
+    ol ol,
+    blockquote.right p,
+    blockquote.left p,
+    .alert :last-child,
+    .note :last-child,
+    .box :last-child,
+    .footnotes :last-child {
+        margin-bottom: 0;
+    }
+}
+
+
+/*# sourceMappingURL=2880px.css.map */
